@@ -30,6 +30,12 @@ article{
     }
     
 }
+@media only screen and (max-width: 1000px) {
+img{
+    width: 35%;
+    height: 20%;
+}
+}
 @media only screen and (max-width: 768px) {
 
     h1{
